@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-A risk quant with experience in validating and developing Interest rate pricing and risk models.For more details, please refer to my curriculum vitae.
-(https://ujwal-vellore.github.io/docs/Vellore_Ujwal_Kumar_CV.pdf)
+A risk quant with experience in validating and developing Interest rate pricing and risk models.For more details, please refer to my
+ <a href="docs/Vellore_Ujwal_Kumar_CV.pdf">curriculum vitae</a>.
 
 
 You can use the [editor on GitHub](https://github.com/ujwal-vellore/ujwal-vellore.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
